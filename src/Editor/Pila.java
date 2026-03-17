@@ -12,7 +12,7 @@ public class Pila {
         elementos = new ArrayList<>();
     }
 
-    // Agregar un elemento a la pila
+    // Agregar un elemento a la pilas
     public void push(String elemento) {
         elementos.add(elemento);
     }
