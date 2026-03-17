@@ -17,7 +17,7 @@ public class Pila {
         elementos.add(elemento);
     }
 
-    // Elimina el último elemento
+    // Eliminar el último elemento
     public String pop() {
         if (isEmpty()) {
             return null;
