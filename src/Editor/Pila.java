@@ -33,7 +33,7 @@ public class Pila {
         return elementos.get(elementos.size() - 1);
     }
 
-    // Verifica si la pila está vacía
+    // Verificar si la pila está vacía
     public boolean isEmpty() {
         return elementos.isEmpty();
     }
