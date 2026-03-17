@@ -25,7 +25,7 @@ public class Pila {
         return elementos.remove(elementos.size() - 1);
     }
 
-    // Muestra el último elemento sin eliminarlo
+    // Mostrar el último elemento sin eliminarlo
     public String peek() {
         if (isEmpty()) {
             return null;
